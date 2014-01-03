@@ -1,4 +1,4 @@
-/**	Arduino Math Plot TFT Library Header 
+/** Arduino Math Plot TFT Library Header 
  *
  *  Copyright (c) 2014 by Bradley Petersen <bpetersen@ieee.org>
  *
@@ -110,13 +110,7 @@ class PLOT
 		unsigned int _bgcolor;
 };
 
-class CONSOLE
-{
-	public:
-	
-};
 
-extern CONSOLE Console;
 extern PLOT Plot;
 
 
